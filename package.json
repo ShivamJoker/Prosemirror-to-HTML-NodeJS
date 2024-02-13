@@ -1,0 +1,20 @@
+{
+  "name": "prosemirror",
+  "version": "1.0.0",
+  "author": "",
+  "main": "index.js",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/node": "20",
+    "happy-dom": "^13.3.8",
+    "prosemirror-model": "^1.19.4",
+    "prosemirror-schema-basic": "^1.2.2",
+    "prosemirror-schema-list": "^1.3.0",
+    "prosemirror-tables": "^1.3.5"
+  }
+}

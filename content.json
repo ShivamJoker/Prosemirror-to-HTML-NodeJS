@@ -1,0 +1,281 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "text": "The Story"
+        }
+      ],
+      "attrs": {
+        "level": 3,
+        "id": "the-story"
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "China’s CSI 300 stock market index lost 15% of its value in 2023. "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "link",
+              "attrs": {
+                "title": null,
+                "href": "https://www.bloomberg.com/news/articles/2023-12-22/china-s-csi-300-index-caps-longest-weekly-losing-streak-since-2012"
+              }
+            }
+          ],
+          "text": "Foreign investors"
+        },
+        {
+          "type": "text",
+          "text": " had dumped a record number of shares and the China story seemed over."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "strong",
+              "attrs": {
+                "marker": "*"
+              }
+            }
+          ],
+          "text": "But guess who was on the winning side of this bet?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "strong",
+              "attrs": {
+                "marker": "*"
+              }
+            }
+          ],
+          "text": "India!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "Our stock market had soared by 20%. And you could attribute a significant part of that success to the nearly record-high inflow from foreign investors — which was over a whopping "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "link",
+              "attrs": {
+                "title": null,
+                "href": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-76-lakh-crore-bet-india-sees-highest-ever-fpi-inflows-in-rupee-terms-2023/articleshow/106545058.cms?from=mdr"
+              }
+            }
+          ],
+          "text": "$21 billion"
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph"
+    },
+    {
+      "type": "hr"
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "text": "You can type "
+        },
+        {
+          "type": "text",
+          "text": " to create a table:"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "content": [
+        {
+          "type": "table_row",
+          "content": [
+            {
+              "type": "table_header",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "First Header"
+                    }
+                  ]
+                }
+              ],
+              "attrs": {
+                "colspan": 1,
+                "alignment": "left",
+                "rowspan": 1,
+                "colwidth": null
+              }
+            },
+            {
+              "type": "table_header",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Second Header"
+                    }
+                  ]
+                }
+              ],
+              "attrs": {
+                "colspan": 1,
+                "alignment": "center",
+                "rowspan": 1,
+                "colwidth": null
+              }
+            }
+          ]
+        },
+        {
+          "type": "table_row",
+          "content": [
+            {
+              "type": "table_cell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Content Cell 1"
+                    }
+                  ]
+                }
+              ],
+              "attrs": {
+                "colspan": 1,
+                "alignment": "left",
+                "rowspan": 1,
+                "colwidth": null
+              }
+            },
+            {
+              "type": "table_cell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Content Cell 1"
+                    }
+                  ]
+                }
+              ],
+              "attrs": {
+                "colspan": 1,
+                "alignment": "center",
+                "rowspan": 1,
+                "colwidth": null
+              }
+            }
+          ]
+        },
+        {
+          "type": "table_row",
+          "content": [
+            {
+              "type": "table_cell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Content Cell 2"
+                    }
+                  ]
+                }
+              ],
+              "attrs": {
+                "colspan": 1,
+                "alignment": "left",
+                "rowspan": 1,
+                "colwidth": null
+              }
+            },
+            {
+              "type": "table_cell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "strong",
+                          "attrs": {
+                            "marker": "*"
+                          }
+                        }
+                      ],
+                      "text": "Content"
+                    },
+                    {
+                      "type": "text",
+                      "text": " Cell 2"
+                    }
+                  ]
+                }
+              ],
+              "attrs": {
+                "colspan": 1,
+                "alignment": "center",
+                "rowspan": 1,
+                "colwidth": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hr"
+    }
+  ]
+}
